@@ -1,0 +1,45 @@
+/**{
+    background-color: lightgrey;
+}
+*/
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #343a40;
+    width: 100%;   
+    /*width:1100px; */
+
+}
+
+.nav-title{
+    color: white;
+    margin-left: 20px;
+    
+}   
+
+.nav-links{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    /*margin-left: 600px;*/
+    
+}  
+
+.nav-links a{
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+
+}   
+
+.nav-links li{
+    list-style: none;
+    
+}
+
+.nav-links .btn{
+    margin-left: 10px;
+    background-color: aqua;
+    box-shadow: 2px 2px 2px;
+}

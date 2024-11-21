@@ -1,0 +1,69 @@
+body{
+    background-color: blue;
+    outline: 1px solid red;
+}
+*{
+    outline: 2px solid darkorange;
+    background-color: aqua;
+}
+
+h1{
+    background-color: purple;
+    color: white;
+    font-size: 50px;
+    padding-left: 10px;
+}
+
+.green{
+    background-color: mediumseagreen;
+}
+.red{
+    background-color: blanchedalmond;
+}
+p{
+    text-align: center;
+    font-size: 70px;
+}
+.is-centered{
+    text-align: center;
+}
+
+#game {
+    width: 320px;
+    height: 240px;
+    overflow: hidden;
+    background: linear-gradient(#1293f5, #bae8ff 80%, #35b236 80%);
+}
+
+#player{
+    margin-top: 105px;
+    margin-left: 115px;
+}
+
+.header > img {
+    height: 100px;
+}
+
+input{
+    padding: 5px;
+    border-color: rebeccapurple;
+}
+
+input[type="text"]{
+    border:none;
+    border-bottom: 2px solid black;
+}
+input[type ="submit"]{
+    color:yellow;
+    background-color: rebeccapurple;
+}
+
+h3{
+    font-weight: bold;
+}
+h4{
+    font-weight: none;
+}
+h5{
+    font-family: serif;
+}

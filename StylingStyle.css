@@ -1,0 +1,42 @@
+
+
+#header{
+    background-color: black;
+    height: 60px;
+    padding-left: 10px;
+}    
+
+#header h1{
+    color: white;
+    font-size: 40px;
+    padding-top: 5px;
+}
+
+#header span{
+    color: aqua;
+}
+
+#main{
+    background-color: #6f42c1;
+    height: 50px;
+
+}
+#main p{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5px;
+}    
+
+#bottom{
+    background-color: lightblue;
+    height: 50px;
+}
+
+#bottom p{
+    text-align: right;
+    font-size: 30px;
+    text-decoration: underline;
+    padding-right: 10px;
+    margin-top: 5px;
+}

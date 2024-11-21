@@ -1,0 +1,18 @@
+*{
+    padding:0;
+    margin: 0;;
+}
+
+
+The simplest CSS reset that web developers commonly use is to simply zero 
+out the margin and padding for all visible elements on the page. This will
+ make our designs consistent from one browser to another and allows us to 
+ then specify padding and margin on only the elements where they will be 
+ necessary.
+
+
+ Also, it's important to validate your HTML/CSS often, as validating the 
+ HTML/CSS gives insight on how you can fix issues that may lead to 
+ cross-browser compatibility issues (and often, invalid HTML/CSS can lead 
+ to weird behavior as the browser may not 'fix' invalid HTML/CSS quite the 
+ right way).

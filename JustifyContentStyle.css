@@ -1,0 +1,40 @@
+
+h1{
+    text-align: center;
+}
+
+
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+}
+
+
+.main {
+    height: 400px;
+    width: 1000px;
+    background-color: red;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    
+
+}
+
+.sub-content {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+
+
+}
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+

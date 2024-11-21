@@ -1,0 +1,19 @@
+*{
+    background-color: white;
+}
+
+#search{
+    border-radius: 10px;
+    width: 90px;
+    background-color: antiquewhite;
+}
+
+#plus{
+    background-color: aquamarine;
+    border-radius: 50%;
+}
+
+#account{
+    background-color: #007aff;
+    box-shadow: 2px 2px;
+}
