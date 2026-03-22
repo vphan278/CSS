@@ -24,6 +24,6 @@ The goal of this repository is to practice styling web pages using CSS and under
 
 AUTHOR
 
-Vinh Tan Phan  
+Vinh Phan  
 Computer Science Student  
-De Anza College
+
